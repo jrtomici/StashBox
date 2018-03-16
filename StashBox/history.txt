@@ -1,0 +1,8 @@
+
+Deposited $100 -- Paycheck
+Withdrew $50 -- fhkjj
+Deposited $20 -- test
+Deposited $30 -- test
+Deposited $0 -- Enter memo
+Withdrew $40 -- Enter memo
+Withdrew $40 -- need groceries
